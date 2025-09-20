@@ -65,7 +65,7 @@ O público-alvo do sistema são pequenos produtores rurais que necessitam de inf
 
 ***2.1. Requisitos Funcionais***
 
-*<Link, imagem, arquivo com os requisitos funcionais.>*
+https://docs.google.com/spreadsheets/d/1g2kANvO5NzyjvuFUY8HKvjTMF9b3ztHLRga8JYrb6OI/edit?usp=sharing
 
 ***2.2. Requisitos Não Funcionais***
 
