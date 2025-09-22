@@ -15,7 +15,7 @@ Fabio Eizo Rodriguez Matsumoto - devFabioMats
 
 Arthur Henrique de Melo Almeida - ArthurHenrique2006-stack
 
-Vinicius Luiz Andretta Ferracini - 
+Vinicius Luiz Andretta Ferracini - vinifandretta
 
 Eduardo Caversan Da Silva Rocha -
 
