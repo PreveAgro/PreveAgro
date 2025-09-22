@@ -13,7 +13,7 @@ Leonardo Marino Scarparo Silva - Marinoleo96351
 
 Fabio Eizo Rodriguez Matsumoto - devFabioMats
 
-Arthur Henrique de Melo Almeida - 
+Arthur Henrique de Melo Almeida - ArthurHenrique2006-stack
 
 Vinicius Luiz Andretta Ferracini - 
 
