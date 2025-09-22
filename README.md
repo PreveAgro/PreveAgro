@@ -11,7 +11,7 @@ Olá! Este repositório faz parte do projeto da disciplina de Requisitos de Soft
 
 Leonardo Marino Scarparo Silva - Marinoleo96351
 
-Fabio Eizo Rodriguez Matsumoto - 
+Fabio Eizo Rodriguez Matsumoto - devFabioMats
 
 Arthur Henrique de Melo Almeida - 
 
