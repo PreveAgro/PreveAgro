@@ -9,15 +9,15 @@ Olá! Este repositório faz parte do projeto da disciplina de Requisitos de Soft
 
 ***1.1.  Nome do Grupo***
 
-Leonardo Marino Scarparo Silva
+Leonardo Marino Scarparo Silva - Marinoleo96351
 
-Fabio Eizo Rodriguez Matsumoto
+Fabio Eizo Rodriguez Matsumoto - 
 
-Arthur Henrique de Melo Almeida
+Arthur Henrique de Melo Almeida - 
 
-Vinicius Luiz Andretta Ferracini
+Vinicius Luiz Andretta Ferracini - 
 
-Eduardo Caversan Da Silva Rocha
+Eduardo Caversan Da Silva Rocha -
 
 ***1.2.  Nome do Sistema***
 
