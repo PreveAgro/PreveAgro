@@ -17,7 +17,7 @@ Arthur Henrique de Melo Almeida - ArthurHenrique2006-stack
 
 Vinicius Luiz Andretta Ferracini - vinifandretta
 
-Eduardo Caversan Da Silva Rocha -
+Eduardo Caversan Da Silva Rocha - EduardoCaversan
 
 ***1.2.  Nome do Sistema***
 
