@@ -98,7 +98,8 @@ Pequenos produtores rurais que necessitam de informações estratégicas para ot
 
 ### 2.2. Requisitos Não Funcionais
 
-https://docs.google.com/spreadsheets/d/1g2kANvO5NzyjvuFUY8HKvjTMF9b3ztHLRga8JYrb6OI/edit?usp=sharing
+Link colaborativo (planilha): https://docs.google.com/spreadsheets/d/1g2kANvO5NzyjvuFUY8HKvjTMF9b3ztHLRga8JYrb6OI/edit?usp=sharing  
+Arquivo: [`Requisitos/requisitos-nao-funcionais.md`](Requisitos/requisitos-nao-funcionais.md)
 
 ### 2.3. Perguntas (Entrevistas / Elicitação)
 
