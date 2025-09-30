@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# PreveAgro 🌱
+# 🌱 PreveAgro 🌱
 
 Plataforma de apoio à decisão para pequenos produtores rurais na definição do melhor momento de venda de commodities agrícolas.
 
