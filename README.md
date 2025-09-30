@@ -12,8 +12,6 @@ Plataforma de apoio à decisão para pequenos produtores rurais na definição d
 
 <sub>Projeto da disciplina de Requisitos de Software - UTFPR (Cornélio Procópio)</sub>
 
-[Padlet (Kanban)](https://padlet.com/fabmat/kanban-do-preveagro-p4amcsy7d2ykaevn)
-
 </div>
 
 ---
