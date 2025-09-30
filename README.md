@@ -39,11 +39,11 @@ Plataforma de apoio à decisão para pequenos produtores rurais na definição d
 
 ### 1.1. Nome do Grupo
 
-- [Arthur Henrique de Melo Almeida](https://github.com/) (ArthurHenrique2006-stack)
-- [Eduardo Caversan Da Silva Rocha](https://github.com/) (EduardoCaversan)
+- [Arthur Henrique de Melo Almeida](https://github.com/ArthurHenrique2006-stack) (ArthurHenrique2006-stack)
+- [Eduardo Caversan Da Silva Rocha](https://github.com/EduardoCaversan) (EduardoCaversan)
 - [Fabio Eizo Rodriguez Matsumoto](https://github.com/devFabioMats) (devFabioMats)
-- [Leonardo Marino Scarparo Silva](https://github.com/) (Marinoleo96351)
-- [Vinicius Luiz Andretta Ferracini](https://github.com/) (vinifandretta)
+- [Leonardo Marino Scarparo Silva](https://github.com/Marinoleo96351) (Marinoleo96351)
+- [Vinicius Luiz Andretta Ferracini](https://github.com/vinifandretta) (vinifandretta)
 
 ### 1.2. Nome do Sistema
 
