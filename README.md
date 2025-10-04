@@ -91,13 +91,13 @@ Pequenos produtores rurais que necessitam de informações estratégicas para ot
 
 ### 2.1. Requisitos Funcionais
 
-- Planilha (versão colaborativa): https://docs.google.com/spreadsheets/d/1g2kANvO5NzyjvuFUY8HKvjTMF9b3ztHLRga8JYrb6OI/edit?usp=sharing  
 - Arquivo: [`Requisitos/requisitos-funcionais.md`](Requisitos/requisitos-funcionais.md)
+- Planilha (versão colaborativa): https://docs.google.com/spreadsheets/d/1g2kANvO5NzyjvuFUY8HKvjTMF9b3ztHLRga8JYrb6OI/edit?usp=sharing  
 
 ### 2.2. Requisitos Não Funcionais
 
-- Planilha (versão colaborativa): https://docs.google.com/spreadsheets/d/1g2kANvO5NzyjvuFUY8HKvjTMF9b3ztHLRga8JYrb6OI/edit?usp=sharing  
 - Arquivo: [`Requisitos/requisitos-nao-funcionais.md`](Requisitos/requisitos-nao-funcionais.md)
+- Planilha (versão colaborativa): https://docs.google.com/spreadsheets/d/1g2kANvO5NzyjvuFUY8HKvjTMF9b3ztHLRga8JYrb6OI/edit?usp=sharing  
 
 ### 2.3. Perguntas (Entrevistas / Elicitação)
 
