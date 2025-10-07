@@ -108,7 +108,7 @@ Pequenos produtores rurais que necessitam de informações estratégicas para ot
 *<Arquivo com as respostas do indivíduo entrevistado e link do drive com upload da gravação.>*
 ### 2.5. Histórias de Usuário
 
-*<Imagem, arquivo (PDF), link com as Histórias de Usuário.>*
+- Planilha (versão colaborativa): https://docs.google.com/spreadsheets/d/1g2kANvO5NzyjvuFUY8HKvjTMF9b3ztHLRga8JYrb6OI/edit?usp=sharing
 ### 2.6. Diagramas de Caso de Uso e Especificações
 
 - Planilha (versão colaborativa): https://docs.google.com/spreadsheets/d/1g2kANvO5NzyjvuFUY8HKvjTMF9b3ztHLRga8JYrb6OI/edit?usp=sharing
