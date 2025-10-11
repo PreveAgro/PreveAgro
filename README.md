@@ -106,7 +106,7 @@ Pequenos produtores rurais que necessitam de informações estratégicas para ot
 
 ### 2.4. Entrevistas
 
-*<Arquivo com as respostas do indivíduo entrevistado e link do drive com upload da gravação.>*
+Formulário com as perguntas:https://forms.gle/qeLDG2Ge9HNUXgiH7
 ### 2.5. Histórias de Usuário
 
 - Planilha (versão colaborativa): https://docs.google.com/spreadsheets/d/1g2kANvO5NzyjvuFUY8HKvjTMF9b3ztHLRga8JYrb6OI/edit?usp=sharing
