@@ -63,7 +63,8 @@ Pequenos produtores rurais que necessitam de informações estratégicas para ot
 
 ### Personas
 
-*<Imagem, arquivo (PDF), link com as Personas.>*
+![Imagem do WhatsApp de 2025-10-09 à(s) 15 16 14_e731af49](https://github.com/user-attachments/assets/bf710f50-2fac-4afb-816c-c70cb18dc5e4)
+
 
 
 ### Análise da Situação Atual
