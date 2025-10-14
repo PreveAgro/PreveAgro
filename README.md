@@ -82,11 +82,10 @@ Pequenos produtores rurais que necessitam de informações estratégicas para ot
 ### Cenários
 
 #### Cenário: Antes
-*<Preencher com o cenário idealizado antes da aplicação do seu sistema.>*
-
+José é um pequeno produtor rural que cultiva soja e milho em sua propriedade de 50 hectares no interior do Paraná. Para decidir quando vender suas commodities, ele depende de informações fragmentadas: conversa com vizinhos, acompanha notícias na televisão e ocasionalmente consulta sites de cooperativas. Muitas vezes, José precisa tomar decisões rápidas sem ter uma visão clara das tendências de mercado, resultando em vendas em momentos não ideais. Ele já perdeu oportunidades de lucro por vender muito cedo ou muito tarde, pois não tinha acesso a análises preditivas confiáveis ou alertas sobre o melhor timing de venda.
 
 #### Cenário: Depois
-*<Preencher com o cenário idealizado depois da aplicação do seu sistema.>*
+Com o PreveAgro, José se cadastra na plataforma e adiciona suas commodities (soja e milho) ao sistema. Através do dashboard personalizado, ele visualiza gráficos com histórico de preços, análises preditivas e tendências de mercado específicas para suas culturas. O sistema envia notificações automáticas quando identifica o momento ideal para venda, considerando fatores como sazonalidade, mercado internacional e clima. José também acessa um feed de notícias relevantes sobre agronegócio, clima e geopolítica, mantendo-se informado sobre fatores que podem impactar seus preços. Com essas informações estratégicas, José maximiza seus lucros, vende no timing correto e toma decisões mais assertivas baseadas em dados concretos.
 
 ## 2. Documentos Gerais no Repositório
 
