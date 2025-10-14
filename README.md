@@ -109,6 +109,7 @@ Pequenos produtores rurais que necessitam de informações estratégicas para ot
 Formulário com as perguntas:https://forms.gle/qeLDG2Ge9HNUXgiH7
 ### 2.5. Histórias de Usuário
 
+- Arquivo: [`Requisitos/historias-de-usuario.md`](Requisitos/historias-de-usuario.md)
 - Planilha (versão colaborativa): https://docs.google.com/spreadsheets/d/1g2kANvO5NzyjvuFUY8HKvjTMF9b3ztHLRga8JYrb6OI/edit?usp=sharing
 ### 2.6. Diagramas de Caso de Uso e Especificações
 
