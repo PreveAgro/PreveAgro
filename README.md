@@ -112,7 +112,8 @@ Com o PreveAgro, José se cadastra na plataforma e adiciona suas commodities (so
 - Planilha (versão colaborativa): https://docs.google.com/spreadsheets/d/1g2kANvO5NzyjvuFUY8HKvjTMF9b3ztHLRga8JYrb6OI/edit?usp=sharing
 ### 2.6. Diagramas de Caso de Uso e Especificações
 
-- Planilha (versão colaborativa): https://docs.google.com/spreadsheets/d/1g2kANvO5NzyjvuFUY8HKvjTMF9b3ztHLRga8JYrb6OI/edit?usp=sharing
+- Arquivo: https://drive.google.com/file/d/1gy_gGH-MIpWzn_UzG9gt4Ih4F59VTw3b/view?usp=drive_link
+- Pasta: https://drive.google.com/drive/folders/1Zlu8-nJynI6v8xOq0UnuAJaJfa0Ib-u2?usp=drive_link
 ### 2.7. Diagramas de Atividades
 
 *<Imagem, arquivo (PDF), link com Diagrama de Atividades.>*
