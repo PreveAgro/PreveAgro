@@ -101,10 +101,12 @@ Com o PreveAgro, José se cadastra na plataforma e adiciona suas commodities (so
 
 ### 2.3. Perguntas (Entrevistas / Elicitação)
 
-- Formulário com as perguntas:https://forms.gle/qeLDG2Ge9HNUXgiH7
+- Formulário com as perguntas: https://forms.gle/qeLDG2Ge9HNUXgiH7
 
 ### 2.4. Entrevistas
-- link com a transcrição dos audios:https://drive.google.com/drive/folders/1vJAaIbZMeD1FLr-C4tmonLMawRTbBdiV?usp=drive_link
+
+- Arquivo: [`Requisitos/entrevista.md`](Requisitos/entrevista.md)
+- Link com a transcrição dos áudios: https://drive.google.com/drive/folders/1vJAaIbZMeD1FLr-C4tmonLMawRTbBdiV?usp=drive_link
 
 ### 2.5. Histórias de Usuário
 
