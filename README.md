@@ -116,12 +116,18 @@ Com o PreveAgro, José se cadastra na plataforma e adiciona suas commodities (so
 
 - Arquivo: https://drive.google.com/file/d/1gy_gGH-MIpWzn_UzG9gt4Ih4F59VTw3b/view?usp=drive_link
 - Pasta: https://drive.google.com/drive/folders/1Zlu8-nJynI6v8xOq0UnuAJaJfa0Ib-u2?usp=drive_link
-### 2.7. Diagramas de Atividades
+
+### 2.7 Diagramas de Atividades
 
 - Arquivo: https://drive.google.com/file/d/1RRoMLxUC5EISnhUWFEzAjaKP1J_3A7VG/view?usp=drive_link
 - Pasta: https://drive.google.com/drive/folders/1Zlu8-nJynI6v8xOq0UnuAJaJfa0Ib-u2?usp=drive_link
 
-### 2.8. Protótipos
+  ### 2.8. Diagramas de Classe
+
+- Arquivo: https://drive.google.com/file/d/1czhntFmzURj_tzkRA0wqo0oZZ-6vCh3_/view?usp=drive_link
+- Pasta: https://drive.google.com/drive/folders/1Zlu8-nJynI6v8xOq0UnuAJaJfa0Ib-u2?usp=drive_link
+
+### 2.9. Protótipos
 
 *<Imagem, arquivo (PDF), link com Protótipo.>*
 
