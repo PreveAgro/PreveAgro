@@ -129,7 +129,7 @@ Com o PreveAgro, José se cadastra na plataforma e adiciona suas commodities (so
 
 ### 2.9. Protótipos
 
-*<Imagem, arquivo (PDF), link com Protótipo.>*
+- Link do Arquivo: https://ninjamock.com/Designer/Workplace/207085157/PginaLogin
 
 ---
 
