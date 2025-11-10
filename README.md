@@ -114,17 +114,20 @@ Com o PreveAgro, José se cadastra na plataforma e adiciona suas commodities (so
 - Planilha (versão colaborativa): https://docs.google.com/spreadsheets/d/1g2kANvO5NzyjvuFUY8HKvjTMF9b3ztHLRga8JYrb6OI/edit?usp=sharing
 ### 2.6. Diagramas de Caso de Uso e Especificações
 
-- Arquivo: https://drive.google.com/file/d/1gy_gGH-MIpWzn_UzG9gt4Ih4F59VTw3b/view?usp=drive_link
+- Arquivo: [`requisitos-e-diagramas/diagrama-de-caso-de-uso-preveagro.png`](requisitos-e-diagramas/diagrama-de-caso-de-uso-preveagro.png)
+- Arquivo Drive: https://drive.google.com/file/d/1gy_gGH-MIpWzn_UzG9gt4Ih4F59VTw3b/view?usp=drive_link
 - Pasta: https://drive.google.com/drive/folders/1Zlu8-nJynI6v8xOq0UnuAJaJfa0Ib-u2?usp=drive_link
 
 ### 2.7 Diagramas de Atividades
 
-- Arquivo: https://drive.google.com/file/d/1RRoMLxUC5EISnhUWFEzAjaKP1J_3A7VG/view?usp=drive_link
+- Arquivo: [`requisitos-e-diagramas/diagrama-de-atividades-preveagro.png`](requisitos-e-diagramas/diagrama-de-atividades-preveagro.png)
+- Arquivo Drive: https://drive.google.com/file/d/1RRoMLxUC5EISnhUWFEzAjaKP1J_3A7VG/view?usp=drive_link
 - Pasta: https://drive.google.com/drive/folders/1Zlu8-nJynI6v8xOq0UnuAJaJfa0Ib-u2?usp=drive_link
 
   ### 2.8. Diagramas de Classe
 
-- Arquivo: https://drive.google.com/file/d/1czhntFmzURj_tzkRA0wqo0oZZ-6vCh3_/view?usp=drive_link
+- Arquivo: [`requisitos-e-diagramas/diagrama-de-classe-preveagro.png`](requisitos-e-diagramas/diagrama-de-classe-preveagro.png)
+- Arquivo Drive: https://drive.google.com/file/d/1czhntFmzURj_tzkRA0wqo0oZZ-6vCh3_/view?usp=drive_link
 - Pasta: https://drive.google.com/drive/folders/1Zlu8-nJynI6v8xOq0UnuAJaJfa0Ib-u2?usp=drive_link
 
 ### 2.9. Protótipos
