@@ -137,5 +137,7 @@ Com o PreveAgro, José se cadastra na plataforma e adiciona suas commodities (so
 
 ## Referências
 
-*<Esta seção é destinada à descrição das referências utilizadas pelo documento, como por exemplo, URLs e livros. Ver exemplo a seguir:>*
-[1] “Glossário da _USina_”, <_id_doc glossário_>, Versão <_versão_>. Localização: <_localização_>.
+[1] “Análise preditiva com redes neurais artificiais para precificação de grãos no mercado de commodities”, <TCC_PUC_Goiás_2023>, Versão <Única>. Localização: https://repositorio.pucgoias.edu.br/jspui/handle/123456789/5772.
+[2] “Sistema de Apoio à Decisão na Agricultura”, <Tópico_ScienceDirect>, Versão <N/A>. Localização: https://www-sciencedirect-com.translate.goog/topics/agricultural-and-biological-sciences/decision-support-system-in-agriculture.
+No molde solicitado:
+[3] “AGRICULTURA 4.0: DESAFIOS E IMPACTOS DAS NOVAS TECNOLOGIAS NA AGRICULTURA BRASILEIRA”, <TCC_UFU_44031>, Versão <Única>. Localização: https://repositorio.ufu.br/bitstream/123456789/44031/1/AgriculturaDesafiosImpactos.pdf.
